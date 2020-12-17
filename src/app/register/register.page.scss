@@ -1,0 +1,34 @@
+input[type="file"] {
+  display: none;
+}
+.profile-picture {
+  width: 50%;
+  height: 100%;
+}
+
+ion-content
+{
+ --background:black;
+
+ .error-message
+ {
+   color: white;
+ }
+
+ .go-to-login
+ {
+   color: white;
+ }
+ .submit-btn
+ {
+   align-self: center;
+ }
+
+ .buttons{
+   align-items: center;
+ }
+
+ .img{
+   align-items: center;
+ }
+}
